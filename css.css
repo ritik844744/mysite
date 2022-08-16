@@ -1,0 +1,250 @@
+body{
+  background-color: #FDF5DF;
+  margin:0;
+  text-align: center;
+  font-family: 'Rubik Dirt', cursive;
+    }
+div{
+  margin-top:0;
+  position:relative;
+margin-bottom: 1.875rem;}
+h1{
+  font-size:4rem;
+  line-height:1;
+  font-weight:600;
+  color:#94C973;
+
+  margin:0px auto 0.3125rem;
+  padding-top: 2.5rem;
+}
+p{
+  font-size:2rem;
+  margin:0.125rem auto 0.125rem;
+  font-weight: 400;
+  color:#94C973;
+}
+
+.ritik{
+  border-radius:100%;
+  width:15.625rem;
+  height:18.75rem;
+}
+.cloud1{
+position:absolute;
+left:3.4375rem;
+top:2.5rem;
+}
+.cloud2{
+  position:absolute;
+  top:2.5rem;
+ left:51.875rem;
+ padding:bottom:1.875rem;
+}
+.cloud3{
+  margin:2.5rem 30rem 2.1875rem 1.875rem;}
+.cloud4{
+  position:absolute;
+  bottom:20.9375rem;
+  right:12.5rem;
+}
+.firstsection{
+  background-color:#E4F9F5;
+}
+span{
+  text-decoration: underline;
+}
+.hr1{
+  border-top-style:dotted;
+  border-top-width:0.4375rem;
+  border-color:#EAF6F6;
+  width:15%;
+  margin-top:3.75rem;
+
+}
+.ritik{margin-top:6.25rem;}
+.name{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 500;
+  font-family:sans-serif;
+  line-height: 2;
+  margin:bottom:1.875rem;
+}
+.hello{
+  width:45%;
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top:1.875rem;
+}
+.skills{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 500;
+  font-family:sans-serif;
+  line-height: 2;
+  padding-bottom:6.25rem;
+}
+.python{
+  border-radius: 100%;
+  height:8.125rem;
+  width:8.125rem;
+  float:left;
+  margin-left:14.375rem;
+  text-align: center;
+}
+.skill1{
+  width:50%;
+
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  line-height: 1.5;
+  color:black;
+  padding-bottom:6.25rem;
+
+}
+.pythonheading{
+  font-size: 2rem;
+  position:relative;
+  right:9.375rem;
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:1.25rem;
+    font-family: cursive;
+}
+.webheading{
+  font-size: 2rem;
+
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:1.25rem;
+  font-family: cursive;
+
+}
+.skill2{
+  width:50%;
+
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top:1.25rem;
+  color:black;
+  padding-bottom:6.25rem;
+  padding-top:1.875rem;
+  line-height: 1.5;
+  }
+  .computer{
+    border-radius: 100%;
+    height:9.375rem;
+    width:9.375rem;
+    float:right;
+    margin-right:12.5rem;
+    text-align: center;
+    margin-bottom:3.125rem;
+  }
+  .head3{
+    font-size: 2rem;
+
+    color:#66BFBF;
+    font-weight: 300;
+
+    font-family: cursive;
+
+  }
+  .coca{
+    border-radius: 100%;
+    height:9.375rem;
+    width:9.375rem;
+    float:left;
+    margin-left:14.375rem;
+    text-align: center;
+    position:relative;
+    bottom:1.875rem;
+  }
+.hr2{
+  border-top-style:dotted;
+  border-top-width:0.4375rem;
+  border-color:#EAF6F6;
+  width:15%;
+  position:relative;
+  bottom:2.1875;
+}
+.touch{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:1.25rem;
+  font-family: cursive;
+}
+.r{
+  color:#66BFBF;
+  font-weight: normal;
+}
+.skill5{
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top:1.25rem;
+  color:black;
+  padding-bottom:6.25rem;
+  padding-top:1.875rem;
+  line-height: 1.5;
+}
+.btn {
+  background: #4ce3e3;
+  background-image: -webkit-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: -moz-linear-gradient(top,#4ce3e3, #4ce3e3);
+  background-image: -ms-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: -o-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: linear-gradient(to bottom, #4ce3e3, #4ce3e3);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 5px;
+  border: solid #4ce3e3 2px;
+  text-decoration: none;
+  position:relative;
+  bottom:3.75rem;
+}
+
+.btn:hover {
+  background: #11999e;
+  background-image: -webkit-linear-gradient(top, #11999e, #11999e);
+  background-image: -moz-linear-gradient(top,#11999e,#11999e);
+  background-image: -ms-linear-gradient(top,#11999e,#11999e, #11999e);
+  background-image: linear-gradient(to bottom,#11999e,#11999ec);
+  text-decoration: none;
+}
+.footer-link{
+  font-size: 1rem;
+  font-family:cursive;
+  color:white;
+  display:inline-block;
+  width:5rem;
+  text-decoration: none;
+}
+.footer-link:hover{color:black;
+
+}
+.bottom-container{
+  background-color: #4ce3e3;
+  margin:0;
+  padding-top:2.5rem;
+  padding-bottom:1.25rem;
+}
+#ritik{
+  font-size: 0.7rem;
+  padding-top:1.875rem;
+  padding-bottom:1.875rem;
+  color:white;
+  font-family: sans-serif;
+
+}
